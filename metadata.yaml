@@ -1,0 +1,29 @@
+_repo: Philosophie-de-la-Libert---Tome-I---13-Cours-de-philosophie-morale_31070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Secrétan, Charles
+    alias: Secretan, Charles
+    birthdate: 1815
+    deathdate: 1895
+    gutenberg_agent_id: '34989'
+    url: http://www.gutenberg.org/2009/agents/34989
+    wikipedia: http://fr.wikipedia.org/wiki/Charles_Secr%C3%A9tan
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31070'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Liberty -- Philosophy'
+title: "Philosophie de la Liberté (Tome I)\r\nCours de philosophie morale"
+url: http://www.gutenberg.org/ebooks/31070
